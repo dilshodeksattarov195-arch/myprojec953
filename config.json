@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configverify",
+        "uuid": 8395930,
+        "checksum": "bm0snc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
